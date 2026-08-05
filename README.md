@@ -6,8 +6,6 @@ Most "AI writing" lists are marketing-copy tools with a novel-shaped hole in the
 
 Every entry includes what the tool is actually for, so you can tell in one line whether it belongs in your workflow.
 
-**Disclosure:** this list is maintained by the team behind [ImagineYourBook](https://www.imagineyourbook.com). We list our competitors honestly and we would rather you pick the right tool than our tool. Pull requests that add, correct or challenge an entry are welcome, including ones that criticise us.
-
 ## Contents
 
 - [Full-Length Book Generation](#full-length-book-generation)
