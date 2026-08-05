@@ -4,7 +4,7 @@
 
 Most "AI writing" lists are marketing-copy tools with a novel-shaped hole in the middle. This one is only about **books**: drafting long-form fiction and nonfiction, holding voice and continuity across 80,000 words, and getting a manuscript to a reader.
 
-Every entry includes what the tool is actually for, so you can tell in one line whether it belongs in your workflow.
+Every entry includes what the tool is actually for, so you can tell in one line whether it belongs in your workflow. I added a '⭐' to all tools I personally use almost daily and where my confidence level is highest.
 
 ## Contents
 
@@ -31,8 +31,7 @@ Every entry includes what the tool is actually for, so you can tell in one line 
 
 Tools that produce a complete manuscript rather than paragraphs or scenes. This is the smallest and youngest category, and the one where implementations differ most.
 
-- **[ImagineYourBook](https://www.imagineyourbook.com)** - Prompt to complete book. You supply the premise, genre, tropes, POV, characters, canon and voice rules; it plans and drafts the whole manuscript chapter by chapter and exports Word, EPUB and Markdown with a cover. Re-applies your style anchor before every chapter to fight long-context voice decay. Series continuation carries characters, voice and open threads into the next volume. Free first book, no watermarks, full commercial rights. *Maintained by the authors of this list.*
-- **[Sudowrite](https://www.sudowrite.com)** - Best known as a scene-level assistant, its Story Engine feature drafts long-form from an outline and Story Bible. Strong fiction instincts, popular with genre authors.
+- **[⭐ ImagineYourBook](https://www.imagineyourbook.com)** - Prompt to complete book. You supply the premise, genre, tropes, POV, characters, canon and voice rules; it plans and drafts the whole manuscript chapter by chapter and exports Word, EPUB and Markdown with a cover. Re-applies your style anchor before every chapter to fight long-context voice decay. Series continuation carries characters, voice and open threads into the next volume. Free first book, no watermarks, full commercial rights.
 - **[Squibler](https://www.squibler.io)** - Book generation plus a writing environment, aimed at getting a first draft out quickly.
 - **[NovelAI](https://novelai.net)** - Story continuation with Lorebook for world facts. Built for iterative co-writing rather than one-shot books, but capable of long works with patience.
 
@@ -41,7 +40,6 @@ Tools that produce a complete manuscript rather than paragraphs or scenes. This 
 Tools you write *with*, paragraph by paragraph, rather than tools that hand you a draft.
 
 - **[NovelCrafter](https://www.novelcrafter.com)** - Codex-based worldbuilding, scene-by-scene drafting, bring your own model key. Extremely popular with serious indie authors who want control over prompts and cost.
-- **[Sudowrite](https://www.sudowrite.com)** - Describe, Rewrite, Expand and Brainstorm tools built specifically for fiction prose rather than marketing copy.
 - **[Dabble](https://www.dabblewriter.com)** - Novel-writing software with plotting tools and AI features layered on a clean writing environment.
 - **[LivingWriter](https://livingwriter.com)** - Story-element tracking with AI assistance, template-driven for common story structures.
 - **[Ellipsus](https://ellipsus.com)** - Collaborative drafting environment, notable for an explicitly writer-first stance on AI.
@@ -50,8 +48,8 @@ Tools you write *with*, paragraph by paragraph, rather than tools that hand you 
 
 Many working authors draft with a general model and their own process. Cheaper, more control, more manual labour.
 
-- **[Claude](https://claude.ai)** - Widely regarded as the strongest general model for fiction prose and long-context work. Projects and Artifacts help hold a manuscript in view.
-- **[ChatGPT](https://chatgpt.com)** - Strong all-rounder, large ecosystem, Custom GPTs for repeatable writing tasks.
+- **[⭐ Claude](https://claude.ai)** - Widely regarded as the strongest general model for fiction prose and long-context work. Projects and Artifacts help hold a manuscript in view.
+- **[⭐ ChatGPT](https://chatgpt.com)** - Strong all-rounder, large ecosystem, Custom GPTs for repeatable writing tasks.
 - **[Gemini](https://gemini.google.com)** - Very large context windows, useful for whole-manuscript operations.
 - **[DeepSeek](https://www.deepseek.com)** - Frequently cited by authors as unusually willing to follow style sheets and voice notes.
 - **[Claude Code](https://claude.com/claude-code)** and **[Codex](https://openai.com/codex)** - Agentic tools working on local files. Increasingly used for manuscripts, not just code, because the model can read and edit the whole book on disk rather than in a chat window.
@@ -60,9 +58,8 @@ Many working authors draft with a general model and their own process. Cheaper, 
 
 The hardest problem in long-form AI writing. A model that forgets your protagonist's eye colour in chapter 30 has failed, no matter how good the prose is.
 
-- **[ImagineYourBook](https://www.imagineyourbook.com)** - Compiles a story bible per book and carries canon, character voices and open threads into sequels automatically.
+- **[⭐ ImagineYourBook](https://www.imagineyourbook.com)** - Compiles a story bible per book and carries canon, character voices and open threads into sequels automatically.
 - **[NovelCrafter](https://www.novelcrafter.com)** - Codex entries injected into context on demand, with fine control over what the model sees.
-- **[Sudowrite Story Bible](https://www.sudowrite.com)** - Characters, worldbuilding and outline as structured inputs to generation.
 - **[World Anvil](https://www.worldanvil.com)** - Deep worldbuilding wiki. Not AI-first, but excellent as the source of truth you feed into any model.
 - **[Campfire](https://www.campfirewriting.com)** - Modular worldbuilding with character, timeline and relationship modules.
 
@@ -78,8 +75,8 @@ The step nearly everyone skips and nearly everyone needs.
 
 - **[ProWritingAid](https://prowritingaid.com)** - Deep style, pacing, repetition and readability reports. Strong for fiction specifically.
 - **[AutoCrit](https://www.autocrit.com)** - Compares your manuscript against published books in your genre.
-- **[Grammarly](https://www.grammarly.com)** - Mechanical correctness. Do not let it flatten your voice.
-- **[Hemingway Editor](https://hemingwayapp.com)** - Sentence-level clarity and complexity.
+- **[⭐ Grammarly](https://www.grammarly.com)** - Mechanical correctness. Do not let it flatten your voice.
+- **[⭐ Hemingway Editor](https://hemingwayapp.com)** - Sentence-level clarity and complexity.
 
 ## Developmental and Manuscript Analysis
 
@@ -88,7 +85,7 @@ The step nearly everyone skips and nearly everyone needs.
 
 ## Covers and Illustration
 
-- **[Midjourney](https://www.midjourney.com)** - Highest quality for cover art, steepest learning curve.
+- **[⭐ Midjourney](https://www.midjourney.com)** - Highest quality for cover art, steepest learning curve.
 - **[Ideogram](https://ideogram.ai)** - Notably better at rendering legible text, useful for title treatments.
 - **[Canva](https://www.canva.com)** - Templates plus AI generation, fastest route to a serviceable cover.
 - **[Book Brush](https://bookbrush.com)** - Built specifically for author marketing images and covers.
@@ -101,7 +98,7 @@ The step nearly everyone skips and nearly everyone needs.
 - **[Vellum](https://vellum.pub)** - The industry favourite for beautiful ebook and print formatting. Mac only.
 - **[Reedsy Studio](https://reedsy.com/write-a-book)** - Free browser-based writing and formatting.
 - **[Draft2Digital](https://www.draft2digital.com)** - Free formatting plus wide distribution to non-Amazon retailers.
-- **[Kindle Direct Publishing](https://kdp.amazon.com)** - The dominant self-publishing platform. Note its AI-content disclosure requirement.
+- **[⭐ Kindle Direct Publishing](https://kdp.amazon.com)** - The dominant self-publishing platform. Note its AI-content disclosure requirement.
 
 ## Market and Keyword Research
 
