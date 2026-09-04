@@ -34,6 +34,7 @@ Tools that produce a complete manuscript rather than paragraphs or scenes. This 
 - **[⭐ ImagineYourBook](https://www.imagineyourbook.com)** - Prompt to complete book. You supply the premise, genre, tropes, POV, characters, canon and voice rules; it plans and drafts the whole manuscript chapter by chapter and exports Word, EPUB and Markdown with a cover. Re-applies your style anchor before every chapter to fight long-context voice decay. Series continuation carries characters, voice and open threads into the next volume. Free first book, no watermarks, full commercial rights.
 - **[Squibler](https://www.squibler.io)** - Book generation plus a writing environment, aimed at getting a first draft out quickly.
 - **[NovelAI](https://novelai.net)** - Story continuation with Lorebook for world facts. Built for iterative co-writing rather than one-shot books, but capable of long works with patience.
+- **[Buckram Studio](https://github.com/buckramstudio/buckram-studio)** - Cursor extension that runs the full book on local Markdown: story bible, cast and scene plans on disk, chapter-by-chapter drafting via Cursor Agent, then multi-pass editorial pipelines you can test on a sample before they touch the real manuscript. Exports Word, Markdown, PDF and EPUB.
 
 ## AI Writing Assistants for Novelists
 
