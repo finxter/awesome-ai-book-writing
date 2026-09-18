@@ -44,6 +44,8 @@ Tools you write *with*, paragraph by paragraph, rather than tools that hand you 
 - **[LivingWriter](https://livingwriter.com)** - Story-element tracking with AI assistance, template-driven for common story structures.
 - **[Ellipsus](https://ellipsus.com)** - Collaborative drafting environment, notable for an explicitly writer-first stance on AI.
 
+- **[奇境 AI](https://www.fictionalland.com/)** - Chinese-language fanfiction assistant for conversational planning, chapter drafting and revision, with source-novel references and creative notes.
+
 ## General-Purpose Models Used for Fiction
 
 Many working authors draft with a general model and their own process. Cheaper, more control, more manual labour.
