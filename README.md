@@ -35,6 +35,7 @@ Tools that produce a complete manuscript rather than paragraphs or scenes. This 
 - **[⭐ ImagineYourBook](https://www.imagineyourbook.com)** - Prompt to complete book. You supply the premise, genre, tropes, POV, characters, canon and voice rules; it plans and drafts the whole manuscript chapter by chapter and exports Word, EPUB and Markdown with a cover. Re-applies your style anchor before every chapter to fight long-context voice decay. Series continuation carries characters, voice and open threads into the next volume. Free first book, no watermarks, full commercial rights.
 - **[Squibler](https://www.squibler.io)** - Book generation plus a writing environment, aimed at getting a first draft out quickly.
 - **[NovelAI](https://novelai.net)** - Story continuation with Lorebook for world facts. Built for iterative co-writing rather than one-shot books, but capable of long works with patience.
+- **[kdpbook.io](https://kdpbook.io)** - For getting a whole book, not just a draft, into Amazon KDP. You describe the book in a chat (or import a manuscript); it plans, writes, illustrates and typesets it across 36 book types, from picture and coloring books to novels, and exports the interior PDF, full-wrap cover PDF, Kindle EPUB and a listing sheet with the KDP AI-disclosure answers. 2,000 free credits at signup (watermarked exports), paid plans from $25/month.
 
 ## AI Writing Assistants for Novelists
 
