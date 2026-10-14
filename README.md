@@ -66,6 +66,7 @@ The hardest problem in long-form AI writing. A model that forgets your protagoni
 
 ## Outlining and Structure
 
+- **[Rauschwerk Autorenwerkstatt](https://rauschwerkverlag.de/buchwerkstatt/)** - German nonfiction workbench for an idea, intended reader, chapter outline and draft passage; free manual writing and TXT export before account creation, with optional account-based AI assistance. Manual drafts are temporary in the current tab and should be exported before closing it.
 - **[Plottr](https://plottr.com)** - Visual timeline and outline planning, with story-structure templates.
 - **[Fictionary](https://fictionary.co)** - Evaluates a finished draft against 38 story elements. Structural editing rather than line editing.
 - **[Save the Cat! Story Structure](https://savethecat.com)** - Beat-sheet software based on the widely used structure. Useful as the outline you hand an AI.
