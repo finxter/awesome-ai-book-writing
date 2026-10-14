@@ -54,6 +54,7 @@ Many working authors draft with a general model and their own process. Cheaper, 
 - **[Gemini](https://gemini.google.com)** - Very large context windows, useful for whole-manuscript operations.
 - **[DeepSeek](https://www.deepseek.com)** - Frequently cited by authors as unusually willing to follow style sheets and voice notes.
 - **[Claude Code](https://claude.com/claude-code)** and **[Codex](https://openai.com/codex)** - Agentic tools working on local files. Increasingly used for manuscripts, not just code, because the model can read and edit the whole book on disk rather than in a chat window.
+- **[Ozan-v1-12B](https://huggingface.co/arbazsiddiqui/Ozan-v1-12B)** - Open-weight 12B fiction model fine-tuned from Mistral-Nemo with anti-slop DPO to cut repetitive AI phrasing. Runs locally from GGUF quants or hosted on Featherless; Apache-2.0.
 
 ## Story Bibles, Continuity and Series Memory
 
