@@ -90,6 +90,7 @@ The step nearly everyone skips and nearly everyone needs.
 - **[Ideogram](https://ideogram.ai)** - Notably better at rendering legible text, useful for title treatments.
 - **[Canva](https://www.canva.com)** - Templates plus AI generation, fastest route to a serviceable cover.
 - **[Book Brush](https://bookbrush.com)** - Built specifically for author marketing images and covers.
+- **[CoverNice](https://covernice.com)** - Cover-only studio: five directions, then a 300 dpi wrap PDF where spine, bleed and safe area come from page count and paper.
 
 *Note: check the current terms of any image tool before using output on a commercial cover, and check your retailer's rules on AI-generated art.*
 
