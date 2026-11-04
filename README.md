@@ -63,6 +63,7 @@ The hardest problem in long-form AI writing. A model that forgets your protagoni
 - **[NovelCrafter](https://www.novelcrafter.com)** - Codex entries injected into context on demand, with fine control over what the model sees.
 - **[World Anvil](https://www.worldanvil.com)** - Deep worldbuilding wiki. Not AI-first, but excellent as the source of truth you feed into any model.
 - **[Campfire](https://www.campfirewriting.com)** - Modular worldbuilding with character, timeline and relationship modules.
+- **[RelationCanvas](https://relationcanvas.com/)** - Free browser tool for character relationship charts with a separate label for each direction; PNG/SVG export, no account. Useful as a cast/faction continuity map you can keep beside a story bible.
 
 ## Outlining and Structure
 
