@@ -121,6 +121,7 @@ Useful as a self-check, unreliable as a verdict. False positives are common and 
 
 - **[GPTZero](https://gptzero.me)** - Widely used detector.
 - **[Pangram](https://www.pangram.com)** - Detector cited by authors as relatively strict.
+- **[AI Writing Risk Scorer](https://humanizeai-lab.pages.dev/tools/ai-risk-scorer.html)** - Free, no-signup heuristic that flags repetitive phrasing and uniform sentence length in a draft before a human edit; a rough estimate, not a detector verdict.
 - **[Originality.ai](https://originality.ai)** - Detection plus plagiarism checking.
 - **[Amazon KDP Content Guidelines](https://kdp.amazon.com/help/topic/G200672390)** - Amazon requires you to disclose AI-generated content when publishing. Read the current policy rather than a summary of it.
 - **[U.S. Copyright Office guidance on AI](https://www.copyright.gov/ai/)** - Authoritative source on what is and is not protectable.
