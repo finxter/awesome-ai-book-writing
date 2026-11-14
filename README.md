@@ -66,6 +66,7 @@ The hardest problem in long-form AI writing. A model that forgets your protagoni
 
 ## Outlining and Structure
 
+- **[Castlori Creator Guide](https://guide.castlori.com/)** - Free scene-planning exercise and printable worksheet linking character, want, cost, choice, and change before drafting; no account required.
 - **[Plottr](https://plottr.com)** - Visual timeline and outline planning, with story-structure templates.
 - **[Fictionary](https://fictionary.co)** - Evaluates a finished draft against 38 story elements. Structural editing rather than line editing.
 - **[Save the Cat! Story Structure](https://savethecat.com)** - Beat-sheet software based on the widely used structure. Useful as the outline you hand an AI.
