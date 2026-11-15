@@ -17,6 +17,7 @@ Every entry includes what the tool is actually for, so you can tell in one line 
 - [Developmental and Manuscript Analysis](#developmental-and-manuscript-analysis)
 - [Covers and Illustration](#covers-and-illustration)
 - [Formatting and Publishing](#formatting-and-publishing)
+- [Translation](#translation)
 - [Market and Keyword Research](#market-and-keyword-research)
 - [Audiobook and Narration](#audiobook-and-narration)
 - [AI Detection and Disclosure](#ai-detection-and-disclosure)
@@ -100,6 +101,10 @@ The step nearly everyone skips and nearly everyone needs.
 - **[Reedsy Studio](https://reedsy.com/write-a-book)** - Free browser-based writing and formatting.
 - **[Draft2Digital](https://www.draft2digital.com)** - Free formatting plus wide distribution to non-Amazon retailers.
 - **[⭐ Kindle Direct Publishing](https://kdp.amazon.com)** - The dominant self-publishing platform. Note its AI-content disclosure requirement.
+
+## Translation
+
+- **[Transept](https://transept.ai)** - Translating your own manuscript into another language: a glossary for names, a style guide, side-by-side editing, and the same DOCX, EPUB or PDF back. Free plan.
 
 ## Market and Keyword Research
 
