@@ -78,6 +78,7 @@ The step nearly everyone skips and nearly everyone needs.
 - **[AutoCrit](https://www.autocrit.com)** - Compares your manuscript against published books in your genre.
 - **[⭐ Grammarly](https://www.grammarly.com)** - Mechanical correctness. Do not let it flatten your voice.
 - **[⭐ Hemingway Editor](https://hemingwayapp.com)** - Sentence-level clarity and complexity.
+- **[Revise AI](https://www.revise.net)** - Line editing for a draft you already wrote. Grammar, clarity and style suggestions appear as tracked changes you accept or reject one by one, so the edit doesn't flatten your voice.
 
 ## Developmental and Manuscript Analysis
 
