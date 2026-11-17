@@ -78,6 +78,7 @@ The step nearly everyone skips and nearly everyone needs.
 - **[AutoCrit](https://www.autocrit.com)** - Compares your manuscript against published books in your genre.
 - **[⭐ Grammarly](https://www.grammarly.com)** - Mechanical correctness. Do not let it flatten your voice.
 - **[⭐ Hemingway Editor](https://hemingwayapp.com)** - Sentence-level clarity and complexity.
+- **[HumanPen](https://humanpen.net)** - Document-level AI rewriting for Word/PowerPoint manuscripts, aiming to preserve formatting and citations; credit-based with 100 signup credits.
 
 ## Developmental and Manuscript Analysis
 
