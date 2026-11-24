@@ -83,6 +83,7 @@ The step nearly everyone skips and nearly everyone needs.
 
 - **[Marlowe by Authors A.I.](https://authors.ai)** - Automated developmental report covering pacing, plot structure, dialogue balance and comparable titles.
 - **[Fictionary StoryCoach](https://fictionary.co)** - Structural feedback aimed at revision rather than proofreading.
+- **[Literess](https://literess.com)** - Reads a whole manuscript page by page, comments in the margin and proposes edits as tracked suggestions the writer accepts or rejects; keeps a story map of scenes, the facts each one relies on and where characters first appear. Has no feature for drafting the book.
 
 ## Covers and Illustration
 
